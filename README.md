@@ -1,6 +1,6 @@
 # EfficientLIF-Net
 
-Anonymous Pytorch code for "EfficientLIF-Net: Sharing Leaky-Integrate-and-Fire Neurons for Memory-Efficient Spiking Neural Networks"
+Pytorch code for "Sharing Leaky-Integrate-and-Fire Neurons for Memory-Efficient Spiking Neural Networks"
 
 ## Dependencies
 * Python 3.9    
